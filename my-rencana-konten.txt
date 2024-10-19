@@ -1,0 +1,5 @@
+rencana kontenku
+- Javascript
+- PHP Framework
+- interview
+- vlog
