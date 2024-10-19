@@ -1,0 +1,7 @@
+rencana kontenku
+- Javascript
+* ES6
+* Framework javascipt
+- PHP Framework
+- interview
+- vlog
